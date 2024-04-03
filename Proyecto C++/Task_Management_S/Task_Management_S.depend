@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1712175407 source:c:\users\dagmara\documents\task_management_s\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Tarea.h"
+	"Lista_Tareas.h"
+	"Usuario.h"
+	"Premium.h"
+	"Random.h"
+	<map>
+
+1712173290 c:\users\dagmara\documents\task_management_s\include\tarea.h
+	<string>
+	<iostream>
+
+1712173508 c:\users\dagmara\documents\task_management_s\include\lista_tareas.h
+	<vector>
+	"Tarea.h"
+
+1712173425 c:\users\dagmara\documents\task_management_s\include\usuario.h
+	<string>
+	"Lista_Tareas.h"
+
+1712173588 c:\users\dagmara\documents\task_management_s\include\premium.h
+	<string>
+	"Lista_Tareas.h"
+	<vector>
+	"Usuario.h"
+
+1712173678 c:\users\dagmara\documents\task_management_s\include\random.h
+	<string>
+	"Lista_Tareas.h"
+	<vector>
+	"Usuario.h"
+
+1712174603 source:c:\users\dagmara\documents\task_management_s\src\lista_tareas.cpp
+	"Lista_Tareas.h"
+
+1712174381 source:c:\users\dagmara\documents\task_management_s\src\random.cpp
+	"Random.h"
+
+1712173343 source:c:\users\dagmara\documents\task_management_s\src\tarea.cpp
+	"Tarea.h"
+
+1712173453 source:c:\users\dagmara\documents\task_management_s\src\usuario.cpp
+	"Usuario.h"
+	<vector>
+	<functional>
+
+1712174384 source:c:\users\dagmara\documents\task_management_s\src\premium.cpp
+	"Premium.h"
+
